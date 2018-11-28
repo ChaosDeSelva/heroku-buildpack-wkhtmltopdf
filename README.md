@@ -48,7 +48,6 @@ This buildpack addresses the following issues:
 - Uses wkhtmltopdf version 0.12.4
 - Downloads wkhtmltopdf binaries from [wkhtmltopdf.org](http://wkhtmltopdf.org)
 - Do not add new environment variables or shell scripts
-- Tested on both `cedar-14` and `heroku-16` stack images
 
 ## Sample app
 
